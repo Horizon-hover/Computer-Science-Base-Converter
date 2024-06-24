@@ -102,11 +102,11 @@ Fork the repository.
 
 Create your feature branch (git checkout -b feature/your-feature).
 
-License:
-This program is open-source and free to use. Modify and distribute it as needed.
-
 Commit your changes (git commit -am 'Add some feature').
 
 Push to the branch (git push origin feature/your-feature).
 
 Create a new Pull Request.
+
+License:
+This program is open-source and free to use. Modify and distribute it as needed.
